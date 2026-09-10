@@ -1,9 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Theme Squeeze</title>
-    <link>https://github.com/alecramos-sudo/theme-squeeze-releases</link>
-    <description>Signed updates for Theme Squeeze.</description>
-    <language>en</language>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Theme Squeeze</title>
+        <item>
+            <title>0.2.1</title>
+            <pubDate>Thu, 10 Sep 2026 23:23:52 +1200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Theme Squeeze 0.2.1</p>
+<ul>
+  <li>Choose High, Good or Smaller compression, compare videos, and export a JPEG preview with each MP4.</li>
+  <li>See video and photo thumbnails before squeezing.</li>
+  <li>Select several files with Command-click or Shift-click, or select the whole batch. Remove entries without deleting originals.</li>
+  <li>Moved or deleted sources show “File missing” with a Locate file action.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/alecramos-sudo/theme-squeeze-releases/releases/download/build-3/Theme-Squeeze-3.zip" length="5826987" type="application/octet-stream" sparkle:edSignature="8DhC833G9XpLZKiIWWoSIwIwDxk4/r1I+W3ZltcI9ojlYNB66ZWkEPPPRC7nqeXmwQ04tx4tHG4MZwdowBcVCQ=="/>
+        </item>
+    </channel>
 </rss>

@@ -3,20 +3,18 @@
     <channel>
         <title>Theme Squeeze</title>
         <item>
-            <title>0.2.1</title>
-            <pubDate>Thu, 10 Sep 2026 23:23:52 +1200</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <title>0.2.2</title>
+            <pubDate>Sat, 12 Sep 2026 09:12:23 +1200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p>Theme Squeeze 0.2.1</p>
+            <description><![CDATA[<p>Theme Squeeze 0.2.2</p>
 <ul>
-  <li>Choose High, Good or Smaller compression, compare videos, and export a JPEG preview with each MP4.</li>
-  <li>See video and photo thumbnails before squeezing.</li>
-  <li>Select several files with Command-click or Shift-click, or select the whole batch. Remove entries without deleting originals.</li>
-  <li>Moved or deleted sources show “File missing” with a Locate file action.</li>
+  <li>Send a bug report or product idea from the workspace header or Help menu.</li>
+  <li>Optionally include app and Mac details while keeping media, filenames and folder paths private.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/alecramos-sudo/theme-squeeze-releases/releases/download/build-3/Theme-Squeeze-3.zip" length="5826987" type="application/octet-stream" sparkle:edSignature="8DhC833G9XpLZKiIWWoSIwIwDxk4/r1I+W3ZltcI9ojlYNB66ZWkEPPPRC7nqeXmwQ04tx4tHG4MZwdowBcVCQ=="/>
+            <enclosure url="https://github.com/alecramos-sudo/theme-squeeze-releases/releases/download/build-4/Theme-Squeeze-4.zip" length="6034073" type="application/octet-stream" sparkle:edSignature="PqB4mrJDsSkRFchMpfHSOS8lPYCSlP6sO1lS7wOqq3CrbXgebdAt1ctfp9xnqDJzgNDQDD98Nl5noRZHhwRODg=="/>
         </item>
     </channel>
 </rss>

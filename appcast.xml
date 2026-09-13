@@ -3,19 +3,18 @@
     <channel>
         <title>Theme Squeeze</title>
         <item>
-            <title>0.2.3</title>
-            <pubDate>Sun, 13 Sep 2026 22:32:12 +1200</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+            <title>0.2.4</title>
+            <pubDate>Sun, 13 Sep 2026 23:00:01 +1200</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p>Theme Squeeze 0.2.3</p>
+            <description><![CDATA[<p>Theme Squeeze 0.2.4</p>
 <ul>
-  <li>Compare High, Good and Smaller encodes, find a target file size, and inspect image or video quality before export.</li>
-  <li>Scrub video frames, zoom into detail, and compare original, squeezed and difference views.</li>
-  <li>Refined the workspace hierarchy, file selection controls and macOS icon.</li>
+  <li>Install from a branded Willa Creative Finder window with a clear drag-to-Applications path.</li>
+  <li>Future updates now use Willa Creative’s public Sparkle feed.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Willa-Creative/theme-squeeze-releases/releases/download/build-5/Theme-Squeeze-5.zip" length="7072680" type="application/octet-stream" sparkle:edSignature="7t9be0BBJCXJ3CbKVXb81OgUCvmz1SH6RFGQBxn6yiHq7oIPurKsRACsWYgdkn6ot4RZxr3k5BDt3ApJOEmxBw=="/>
+            <enclosure url="https://github.com/Willa-Creative/theme-squeeze-releases/releases/download/build-6/Theme-Squeeze-6.zip" length="7072674" type="application/octet-stream" sparkle:edSignature="+RSB8MrY3+YcCfcKZ/rM2Uw243pMp8sJzWSqzm7S5MN+PZG+NRhudYZDFycvusGHGf+1DMQMpCO5yu95jM0ODw=="/>
         </item>
     </channel>
 </rss>

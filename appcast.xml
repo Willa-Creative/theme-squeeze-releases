@@ -3,18 +3,19 @@
     <channel>
         <title>Theme Squeeze</title>
         <item>
-            <title>0.2.2</title>
-            <pubDate>Sat, 12 Sep 2026 09:12:23 +1200</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <title>0.2.3</title>
+            <pubDate>Sun, 13 Sep 2026 22:32:12 +1200</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p>Theme Squeeze 0.2.2</p>
+            <description><![CDATA[<p>Theme Squeeze 0.2.3</p>
 <ul>
-  <li>Send a bug report or product idea from the workspace header or Help menu.</li>
-  <li>Optionally include app and Mac details while keeping media, filenames and folder paths private.</li>
+  <li>Compare High, Good and Smaller encodes, find a target file size, and inspect image or video quality before export.</li>
+  <li>Scrub video frames, zoom into detail, and compare original, squeezed and difference views.</li>
+  <li>Refined the workspace hierarchy, file selection controls and macOS icon.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/alecramos-sudo/theme-squeeze-releases/releases/download/build-4/Theme-Squeeze-4.zip" length="6034073" type="application/octet-stream" sparkle:edSignature="PqB4mrJDsSkRFchMpfHSOS8lPYCSlP6sO1lS7wOqq3CrbXgebdAt1ctfp9xnqDJzgNDQDD98Nl5noRZHhwRODg=="/>
+            <enclosure url="https://github.com/alecramos-sudo/theme-squeeze-releases/releases/download/build-5/Theme-Squeeze-5.zip" length="7072680" type="application/octet-stream" sparkle:edSignature="7t9be0BBJCXJ3CbKVXb81OgUCvmz1SH6RFGQBxn6yiHq7oIPurKsRACsWYgdkn6ot4RZxr3k5BDt3ApJOEmxBw=="/>
         </item>
     </channel>
 </rss>

@@ -3,18 +3,20 @@
     <channel>
         <title>Theme Squeeze</title>
         <item>
-            <title>0.2.4</title>
-            <pubDate>Sun, 13 Sep 2026 23:00:01 +1200</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <title>0.2.5</title>
+            <pubDate>Wed, 16 Sep 2026 12:23:44 +1200</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p>Theme Squeeze 0.2.4</p>
+            <description><![CDATA[<p>Theme Squeeze 0.2.5</p>
 <ul>
-  <li>Install from a branded Willa Creative Finder window with a clear drag-to-Applications path.</li>
-  <li>Future updates now use Willa Creative’s public Sparkle feed.</li>
+  <li>A calmer left-to-right workflow for adding media, choosing a file-size goal, and exporting.</li>
+  <li>Smallest file is now the default and clearly identifies high compression; balanced and highest-quality choices explain their tradeoffs.</li>
+  <li>Comparison, detailed asset controls, and advanced export options stay available without crowding the main flow.</li>
+  <li>Added a light and dark appearance control with adaptive native materials.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Willa-Creative/theme-squeeze-releases/releases/download/build-6/Theme-Squeeze-6.zip" length="7072674" type="application/octet-stream" sparkle:edSignature="+RSB8MrY3+YcCfcKZ/rM2Uw243pMp8sJzWSqzm7S5MN+PZG+NRhudYZDFycvusGHGf+1DMQMpCO5yu95jM0ODw=="/>
+            <enclosure url="https://github.com/Willa-Creative/theme-squeeze-releases/releases/download/build-7/Theme-Squeeze-7.zip" length="7135022" type="application/octet-stream" sparkle:edSignature="mv0HEaACutWOJOj5C9S+E8C2L58DMUo1BIBSJ7asF3TNoVzBwAYvczYtr5wsq1G+/Pa1DEpo0qwaVuFoVFkCDA=="/>
         </item>
     </channel>
 </rss>

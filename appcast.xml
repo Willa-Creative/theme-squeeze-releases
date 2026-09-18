@@ -3,20 +3,20 @@
     <channel>
         <title>Theme Squeeze</title>
         <item>
-            <title>0.2.5</title>
-            <pubDate>Wed, 16 Sep 2026 12:23:44 +1200</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+            <title>0.2.6</title>
+            <pubDate>Sat, 19 Sep 2026 08:21:18 +1200</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<p>Theme Squeeze 0.2.5</p>
+            <description><![CDATA[<p>Theme Squeeze 0.2.6</p>
 <ul>
-  <li>A calmer left-to-right workflow for adding media, choosing a file-size goal, and exporting.</li>
-  <li>Smallest file is now the default and clearly identifies high compression; balanced and highest-quality choices explain their tradeoffs.</li>
-  <li>Comparison, detailed asset controls, and advanced export options stay available without crowding the main flow.</li>
-  <li>Added a light and dark appearance control with adaptive native materials.</li>
+  <li>Batch compression now shows overall progress across the selected files.</li>
+  <li>The media list stays responsive to the window height and scrolls cleanly for larger batches.</li>
+  <li>File-size, view, and compression controls now keep consistent square styling and alignment.</li>
+  <li>Fixed valid constant-frame-rate MP4 files being incorrectly marked as unusable.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/Willa-Creative/theme-squeeze-releases/releases/download/build-7/Theme-Squeeze-7.zip" length="7135022" type="application/octet-stream" sparkle:edSignature="mv0HEaACutWOJOj5C9S+E8C2L58DMUo1BIBSJ7asF3TNoVzBwAYvczYtr5wsq1G+/Pa1DEpo0qwaVuFoVFkCDA=="/>
+            <enclosure url="https://github.com/Willa-Creative/theme-squeeze-releases/releases/download/build-8/Theme-Squeeze-8.zip" length="7144833" type="application/octet-stream" sparkle:edSignature="yScwS9K3fDYtFQmKxfaOfnZ7WUzR17CYi8PayKEG/QJreF7EACHsEb+a/OkWzpyYxrIvqLrjEbT9VMRvatgYCA=="/>
         </item>
     </channel>
 </rss>
